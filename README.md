@@ -12,11 +12,11 @@ CosmosCalc is a simple yet stylish command-line calculator written in Python. It
 Features
 Interactive Menu: The calculator presents an interactive menu with a list of available operations, making it easy for users to choose the desired calculation.
 
-Loading Animation: Upon startup, FancyCalc displays a loading animation, adding a touch of elegance to the user experience.
+Loading Animation: Upon startup, CosmosCalc displays a loading animation, adding a touch of elegance to the user experience.
 
 Error Handling: The program includes robust error handling to gracefully manage invalid inputs, such as non-numeric values and division by zero.
 
-Decorative Header: A decorative header introduces users to FancyCalc, enhancing the overall aesthetic of the calculator.
+Decorative Header: A decorative header introduces users to CosmosCalc, enhancing the overall aesthetic of the calculator.
 
 Clean Result Display: The result of each calculation is displayed in a visually pleasing format, making it easy for users to read and understand.
 

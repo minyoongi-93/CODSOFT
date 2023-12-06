@@ -11,15 +11,10 @@ CosmosCalc is a simple yet stylish command-line calculator written in Python. It
 
 Features
 Interactive Menu: The calculator presents an interactive menu with a list of available operations, making it easy for users to choose the desired calculation.
-
 Loading Animation: Upon startup, CosmosCalc displays a loading animation, adding a touch of elegance to the user experience.
-
 Error Handling: The program includes robust error handling to gracefully manage invalid inputs, such as non-numeric values and division by zero.
-
 Decorative Header: A decorative header introduces users to CosmosCalc, enhancing the overall aesthetic of the calculator.
-
 Clean Result Display: The result of each calculation is displayed in a visually pleasing format, making it easy for users to read and understand.
-
 User-Friendly Exit: After each calculation, users are prompted to decide whether they want to perform another calculation. The program gracefully exits upon user request.
 
 Task 2:
@@ -34,7 +29,7 @@ Task 5:
 ### Prerequisites
 Ensure you have the following prerequisites installed on your machine:
 
-- [Python](https://www.python.org/) (version x.x)
+- [Python](https://www.python.org/) (version 3.7)
 - [pip](https://pip.pypa.io/en/stable/) (Python package installer)
 
 
